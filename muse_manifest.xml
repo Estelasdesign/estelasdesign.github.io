@@ -1,0 +1,113 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.estelasdesign.com" resolutions="1x" timestamp="1560522738148">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4273507968" ref="portfolio:index:contact:about"/>
+    <file name="portfolio.css" crc="3847100649" ref="portfolio"/>
+    <file name="index.css" crc="190485925" ref="index"/>
+    <file name="contact.css" crc="3915504359" ref="contact"/>
+    <file name="about.css" crc="484130923" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="estela-resume.pdf" crc="457382955" seo="true" mt="1557316342000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="7928878" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="contact"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u1343.php" crc="3915235924" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="background-01.jpg" crc="3890245048" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="background-02.png" crc="175272439" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="estela-s logo1-01.png" crc="366730352" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lightning.gif" crc="4069388347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background-03.png" crc="4256874475" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="facebook_logos_png19751-crop-u497.png" crc="3800514801" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="instagram_png3-crop-u507.png" crc="3902214669" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="estela-hw4-2-crop-u1330.jpg" crc="303424534" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="finalized logo-03-crop-u660.png" crc="4131063709" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="estela-hw10-1-01-crop-u666.jpg" crc="30134472" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="estela-cw7-01-crop-u669.jpg" crc="4190162479" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="design-01-crop-u672.jpg" crc="406758454" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bourbon-01.jpg" crc="219886044" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="odd one.png" crc="3977659296" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="website character-01.png" crc="4213971520" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="assignment-1.gif" crc="4188845705" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="estela-hw10-01-crop-u1242.jpg" crc="4114282398" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ambroisa_edit.gif" crc="362048198" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="estela-hw8-02.jpg" crc="335585621" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="graphic-design-resume.svg" crc="3961495100" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="graphic design resume_poster_.png" crc="494781203" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="439650635" seo="true" mt="1560522692735" redirect="true"/>
+  <file name="about.html" crc="345314805" seo="true" mt="1560522703694" redirect="true"/>
+  <file name="portfolio.html" crc="4096045533" seo="true" mt="1560522692735" redirect="true"/>
+  <file name="contact.html" crc="335093425" seo="true" mt="1560522692739" redirect="true"/>
+</manifest>
